@@ -17,6 +17,8 @@
         crossorigin="anonymous"></script>
 
 
+    <link rel="stylesheet" href="responsive.css">
+
 
     <link rel="stylesheet" href="index.css">
     <script defer src="script.js"></script>
@@ -365,7 +367,7 @@
                         <h3>client's feedback</h3>
                         <h1 style="margin-top: 0;">what people say about us!</h1>
                         <img src="./assets/Quotemarks-left.svg" alt="">
-                        <div style="text-align: left; width: 62%;">
+                        <div id="client-box" style="text-align: left; width: 62%;">
                             <p>Jannat Tumpa The standard chunk of Lorem Ipsum used since the 1500s is reproduced below
                                 for
                                 those
@@ -381,7 +383,6 @@
     </section>
 
     <section id="footer">
-
         <img src="./assets/Group 500.png" alt="">
     </section>
 
@@ -393,17 +394,18 @@
                 <div class="form-group">
                     <label for="workEmail">Work Email*</label>
                     <input type="email" name="Email" class="form-control" id="workEmail" aria-describedby="emailHelp"
-                        placeholder="Enter work email">
+                        placeholder="Enter work email" required>
                 </div>
                 <div class="form-row">
                     <div class="form-group col-md-6">
                         <label for="firstName">First_Name*</label>
                         <input type="text" name="First Name" class="form-control" id="firstName"
-                            placeholder="First Name">
+                            placeholder="First Name" required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="lastName">Last_Name*</label>
-                        <input type="text" name="Last Name" class="form-control" id="lastName" placeholder="Last Name">
+                        <input type="text" name="Last Name" class="form-control" id="lastName" placeholder="Last Name"
+                            required>
                     </div>
                 </div>
                 <div class="form-group">
