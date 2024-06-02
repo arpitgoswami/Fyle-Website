@@ -285,3 +285,21 @@ h2 {
   top: 0;
   left: 0;
 }
+
+/* carousel */
+
+ol li {
+  width: 0.5rem !important;
+  height: 0.5rem !important;
+  border-radius: 50% !important;
+  transform: translate(0%, 4rem);
+  background-color: #999 !important;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+ol .active {
+  background-color: #ff3147 !important;
+  width: 1rem !important;
+  border-radius: 2rem !important;
+}
