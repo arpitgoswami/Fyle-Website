@@ -1,4 +1,4 @@
-# Fyle Assignment: Internship Landing Page
+# Fyle Website: Internship Landing Page
 
 Welcome to the Fyle Assignment for the internship application! This project involves creating a landing page using HTML, CSS, JavaScript, jQuery, and Bootstrap. This README will guide you through the project requirements, setup, and how to get started.
 
@@ -40,13 +40,13 @@ Before you begin, ensure you have the following installed on your local machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/arpitgoswami/Fyle-Assignment.git
+    git clone https://github.com/arpitgoswami/Fyle-Website.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Fyle-Assignment
+    cd Fyle-Website
     ```
 
 3. Use live server extension to view the landing page.
