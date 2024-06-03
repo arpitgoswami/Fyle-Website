@@ -40,26 +40,17 @@ Before you begin, ensure you have the following installed on your local machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fyle-assignment-landing-page.git
+    git clone https://github.com/arpitgoswami/Fyle-Assignment.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd fyle-assignment-landing-page
+    cd Fyle-Assignment
     ```
 
-3. If you are using Node.js, install the dependencies:
-
-    ```bash
-    npm install
-    ```
+3. Use live server extension to view the landing page.
 
 ### Running the Project
 
 You can use a live server extension in your code editor or a simple HTTP server to view the landing page in your browser.
-
-For example, using Node.js:
-
-```bash
-npm start
