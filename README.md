@@ -54,3 +54,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### Running the Project
 
 You can use a live server extension in your code editor or a simple HTTP server to view the landing page in your browser.
+
+### Website Screenshot 
+
+! https://api.pikwy.com/web/665dff56cd0e93143d64e9e7.jpg
